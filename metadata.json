@@ -1,0 +1,6 @@
+{
+  "name": "Conecta Estudo",
+  "description": "Plataforma focada de estudos colaborativos, trilhas de aprendizagem, simulados e comunidades ativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
